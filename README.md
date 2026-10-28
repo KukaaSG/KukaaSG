@@ -1,8 +1,6 @@
 ### Hello there 👋 I'm Dylan, also known as, [KukaaSG!](https://github.com/KukaaSG/KukaaSG/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
-## I'm a studying for a Higher National Diploma in Web Applicaiton Development at IES Francisco Ayala
+## I'm a studying for a Higher National Diploma in Web Application Development at IES Francisco Ayala
 
 ### Facts about me
 - 👨‍💻 Learning everything about Frontend and Backend technologies.
